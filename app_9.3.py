@@ -774,8 +774,8 @@ def generate_diploma_pdf(username, score, time_s, fairytale_title,
         # 1) Zapni buď per‑pohádka (např. jen Zlatovláska),
         #    nebo parametricky přes crop_mode="top-half".
         crop_top = (
-            
-            (crop_mode == "auto" and fairytale_title in {"O Zlatovlásce"},{"O jednorožci a dráčkovi"})
+        crop_mode == "top-half"
+        or (crop_mode == "auto" and fairytale_title in {"O Zlatovlásce", "O jednorožci a dráčkovi"})
         )
         if crop_top:
             original_img = original_img.crop((0, 0, iw, ih // 2))
@@ -1253,4 +1253,5 @@ if vyber:
     else: st.warning("Ponaučení není zadáno.")
 else:
     st.warning("Nebyla vybrána žádná pohádka.")
+
 
