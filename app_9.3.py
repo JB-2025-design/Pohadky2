@@ -710,7 +710,7 @@ def generate_math_problem(level: str):
 # Streamlit UI
 # -----------------------
 st.set_page_config(page_title="Pohádky: MA / ČJ / IT (Python)", layout="wide")
-st.title("🌟 Pohádky s matematikou, češtinou a informatikou (Python)")
+st.title("🌟 Pohádky+")
 
 # Session state init
 defaults = dict(
@@ -1253,5 +1253,6 @@ if vyber:
     else: st.warning("Ponaučení není zadáno.")
 else:
     st.warning("Nebyla vybrána žádná pohádka.")
+
 
 
