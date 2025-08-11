@@ -873,7 +873,7 @@ if vyber:
     col_left, col_right = st.columns([1,1])
 
     with col_left:
-        st.markdown("### 📘 Poznámka k učivu")
+        st.markdown("### 📘 Téma")
         db_level = class_to_db_level.get(vyber_tridy, "ZŠ")
         if subject == "MA":
             pozn_list = math_notes_by_level.get(db_level, ["Žádná poznámka."])
@@ -883,7 +883,7 @@ if vyber:
             pozn_list = it_notes_by_level.get(db_level, ["Žádná poznámka."])
 
         if pozn_list:
-            with st.expander("📚 Zobrazit poznámky"):
+            with st.expander("📚 Zobrazit"):
                 for p in pozn_list:
                     st.markdown(f"- {p}")
 
@@ -1253,3 +1253,4 @@ if vyber:
     else: st.warning("Ponaučení není zadáno.")
 else:
     st.warning("Nebyla vybrána žádná pohádka.")
+
