@@ -47,7 +47,7 @@
         ]
       ]
     },
-         "2. třída": { 
+      "2. třída": { 
     "rounds": [
         [
             {"text": "Doplň: ž_vočch", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
@@ -108,8 +108,8 @@
             {"text": "Doplň: ch_trý", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
             {"text": "Doplň: k_tice", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
             {"text": "Doplň: r_s", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
-            {"text": "Doplň: r_že", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"}
-            {"text": "Doplň: ž_ně", "options": ["a) y", "b) ý","c) í"], "correct_option": "c"}
+            {"text": "Doplň: r_že", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: ž_ně", "options": ["a) y", "b) ý","c) í"], "correct_option": "c"},
             {"text": "Doplň: ž_dle", "options": ["a) y", "b) ý","c) i"], "correct_option": "c"}
           ]
     ]
@@ -148,7 +148,7 @@
           {"text": "Doplň: l_žařský oddíl", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
           {"text": "Doplň: l_žina na saních", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
           {"text": "Doplň: l_sá hora (bez porostu)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
-          {"text": "Doplň: sl_šet (naslouchat)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "c"},
+          {"text": "Doplň: sl_šet (naslouchat)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
           {"text": "Doplň: l_žák (ten, kdo jezdí na lyžích)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
           {"text": "Doplň: l_sa (holé místo v lese)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
           {"text": "Doplň: l_žnice (místnost na lyže)", "options": ["a) i", "b) y", "c) ý"], "correct_option": "b"},
@@ -472,5 +472,4 @@
                 ]
               }
             }
-
             
