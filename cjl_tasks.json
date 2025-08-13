@@ -47,54 +47,73 @@
         ]
       ]
     },
-      "2. třída": {
-        "rounds": [
-          [
-            {"text": "Ve slově „žába“ je ž:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „ruka“ je r:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „sova“ je s:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Ve slově „jaro“ je j:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „babka“ je b:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Ve slově „chata“ je ch:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „děda“ je d:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „ďas“ je ď:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „teta“ je t:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „ťuk“ je ť:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „nůše“ je n:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „ňadro“ je ň:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „zima“ je z:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Ve slově „liška“ je l:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Ve slově „vrba“ je v:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Ve slově „koza“ je k:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Ve slově „čepice“ je č:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „řeka“ je ř:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „cena“ je c:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Ve slově „věž“ je v:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"}
-          ],
-          [
-            {"text": "Urči: „židle“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „hrad“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Urči: „bota“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „červ“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „kruh“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Urči: „seno“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „ďolík“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „tma“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Urči: „ňadra“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „les“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „vosa“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „řeka“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „cesta“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „liána“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „žíně“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"},
-            {"text": "Urči: „kruh“ – poslední souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Urči: „břeh“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „město“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "c"},
-            {"text": "Urči: „děj“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "b"},
-            {"text": "Urči: „šťáva“ – první souhláska:", "options": ["a) měkká", "b) tvrdá", "c) obojetná"], "correct_option": "a"}
-            ]
-        ]
-    },
+         "2. třída": { 
+    "rounds": [
+        [
+            {"text": "Doplň: ž_vočch", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: r_č", "options": ["a) i", "b) ý", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: š_ška", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: hor_", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: ch_ba", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: č_st", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: ř_dit", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: c_bule", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: p_chat", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: dar_", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: t_gr", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: k_dat", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: š_t", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: ch_trý", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: r_chlý", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: r_bník", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: d_ka", "options": ["a) i", "b) ý", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: ž_to", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: pšen_ce", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: ch_tat", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"}
+        ],
+        [
+            {"text": "Doplň: ž_la", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: š_k", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: č_stit", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: ř_še", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: kř_čet", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: č_perka", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: č_nže", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: č_še", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: š_dlo", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: r_chle", "options": ["a) i", "b) y", "c) í"], "correct_option": "b"},
+            {"text": "Doplň: d_ky", "options": ["a) i", "b) y", "c) í"], "correct_option": "c"},
+            {"text": "Doplň: ž_vot", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: š_kovný", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: č_tatel", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"},
+            {"text": "Doplň: řed_tel", "options": ["a) i", "b) y", "c) í"], "correct_option": "a"}
+        ],
+        [
+            {"text": "Doplň: hor_", "options": ["a) y", "b) ý", "c) i"], "correct_option": "a"},
+            {"text": "Doplň: h_ena", "options": ["a) y", "b) ý", "c) i"], "correct_option": "a"},
+            {"text": "Doplň: h_bat", "options": ["a) y", "b) ý", "c) i"], "correct_option": "b"},
+            {"text": "Doplň: ch_tit", "options": ["a) y", "b) ý", "c) i"], "correct_option": "a"},
+            {"text": "Doplň: ch_še", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: k_tka", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: k_vat", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: r_ba", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: r_ma", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: d_m", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: d_ka", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: r_chlík", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: t_den", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: n_mfa", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: n_brž", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"},
+            {"text": "Doplň: h_batel", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: ch_trý", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: k_tice", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: r_s", "options": ["a) y", "b) ý","c) i"], "correct_option": "a"},
+            {"text": "Doplň: r_že", "options": ["a) y", "b) ý","c) i"], "correct_option": "b"}
+            {"text": "Doplň: ž_ně", "options": ["a) y", "b) ý","c) í"], "correct_option": "c"}
+            {"text": "Doplň: ž_dle", "options": ["a) y", "b) ý","c) i"], "correct_option": "c"}
+          ]
+    ]
+},
         "3. třída": {
       "rounds": [
         [
@@ -453,4 +472,5 @@
                 ]
               }
             }
+
             
